@@ -11,7 +11,7 @@ I'm learning mathematics and computer science, at the french University Grenoble
 
 ##--- : Knows how to use the langage, but not comfortable with
 
-###-- : Comfortable with the langage
+###-- : Comfortable with the langage, learning complex things
 
 ####- : Very comfortable, and knows complex things
 
